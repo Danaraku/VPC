@@ -57,4 +57,3 @@ Review all the configurations you've made and ensure everything looks correct. C
 ## Conclusion
 
 Congratulations! You've successfully created a Virtual Private Cloud (VPC) with public and private subnets, route tables, and internet connectivity.
-
